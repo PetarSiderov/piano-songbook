@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Balkanory.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e447d4b9e13d188eba033b3d6d90f871cd2e77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef97f5897a05c0586f890b45bc0b3c90fc4eda5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Balkanory.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Balkanory.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
