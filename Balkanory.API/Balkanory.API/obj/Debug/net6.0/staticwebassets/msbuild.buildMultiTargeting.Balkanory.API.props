@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Balkanory.API.props" />
+</Project>
