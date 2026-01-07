@@ -1,12 +1,258 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\repositories\\isongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\services\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\balkanory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\balkanory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|c:\\users\\foxers-news\\documents\\balkanory\\balkanory.api\\balkanory.api\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E39E68-6FB2-4135-90B8-1A0FF02AD0EB}|Balkanory.API\\Balkanory.API.csproj|solutionrelative:balkanory.api\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Models\\AuthModels.cs",
+              "RelativeToolTip": "Balkanory.API\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:45:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Balkanory.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:45:50.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "Balkanory.API\\Controllers\\SongsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:39:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Services\\SongService.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Services\\SongService.cs",
+              "RelativeToolTip": "Balkanory.API\\Services\\SongService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:39:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Services\\ISongService.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Services\\ISongService.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Services\\ISongService.cs",
+              "RelativeToolTip": "Balkanory.API\\Services\\ISongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:38:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Repositories\\SongRepository.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Repositories\\SongRepository.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Repositories\\SongRepository.cs",
+              "RelativeToolTip": "Balkanory.API\\Repositories\\SongRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:38:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Repositories\\ISongRepository.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Repositories\\ISongRepository.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Repositories\\ISongRepository.cs",
+              "RelativeToolTip": "Balkanory.API\\Repositories\\ISongRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:38:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Models\\Song.cs",
+              "RelativeToolTip": "Balkanory.API\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:38:04.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Program.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Program.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Program.cs",
+              "RelativeToolTip": "Balkanory.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:12:54.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Balkanory.API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:34:12.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Balkanory.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:17:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Balkanory.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Balkanory.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:15:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Balkanory.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\appsettings.json",
+              "RelativeToolTip": "Balkanory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T14:15:04.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Balkanory.API",
+              "DocumentMoniker": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Balkanory.API.csproj",
+              "RelativeDocumentMoniker": "Balkanory.API\\Balkanory.API.csproj",
+              "ToolTip": "C:\\Users\\foxers-news\\Documents\\Balkanory\\Balkanory.API\\Balkanory.API\\Balkanory.API.csproj",
+              "RelativeToolTip": "Balkanory.API\\Balkanory.API.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T14:15:00.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
