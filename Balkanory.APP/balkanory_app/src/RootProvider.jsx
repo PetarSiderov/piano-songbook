@@ -1,3 +1,5 @@
+'use client';
+
 import { AuthProvider, ThemeProvider, NotificationProvider } from './context';
 
 export default function RootProvider({ children }) {

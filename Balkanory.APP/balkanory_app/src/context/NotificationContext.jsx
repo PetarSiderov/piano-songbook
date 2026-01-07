@@ -1,3 +1,5 @@
+'use client';
+
 import { createContext, useReducer, useCallback } from 'react';
 import notificationReducer from '../reducers/notificationReducer';
 
