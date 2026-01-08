@@ -14,5 +14,7 @@ namespace Balkanory.API.Models
         public string Artist { get; set; }
 
         public string? Lyrics { get; set; }
+
+        public string? Chords { get; set; }
     }
 }
